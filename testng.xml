@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DemotywatoryTest" verbose="1">
+    <test name="Demotywatory Test 1" preserve-order="true" enabled="true">
+        <classes>
+            <class name="LoginTest1"></class>
+        </classes>
+    </test>
+    <test name="Demotywatory Test 2" preserve-order="true" enabled="true">
+        <classes>
+            <class name="LoginTest2"></class>
+        </classes>
+    </test>
+    <test name="Demotywatory Test 3" preserve-order="true" enabled="true">
+        <classes>
+            <class name="RegisterTest1"></class>
+        </classes>
+    </test>
+    <test name="Demotywatory Test 4" preserve-order="true" enabled="true">
+        <classes>
+            <class name="RegisterTest2"></class>
+        </classes>
+    </test>
+    <test name="Demotywatory Test 5" preserve-order="true" enabled="true">
+        <classes>
+            <class name="AddDemotywatorTest1"></class>
+        </classes>
+    </test>
+</suite>
