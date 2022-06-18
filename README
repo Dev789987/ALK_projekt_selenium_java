@@ -1,0 +1,11 @@
+W celu uruchomienia skryptu testującego należy w IntelliJ IDEA wybrać opcję "Add configuration".
+Wybrać "Add new", następnie wybrać "TestNG".
+W polu "Name" wpisać dowolną nazwę.
+W "Test kind" wybrać "Suite".
+W "Suite" wskazać ścieżkę do planu testów.
+Wybór potwierdzić klikając "Apply", następnie "OK".
+Uruchomić skrypt testujący wybierając "Run start".
+////////////////////////////////////
+Opcjonalnie, jeżeli pojawia się informacja o braku JDK wybrać "File".
+Następnie wybrać "Project structure".
+W polu "SDK:" wybrać najnowszą z dostępnych opcji JDK.
